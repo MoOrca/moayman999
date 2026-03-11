@@ -5,7 +5,7 @@
  --->
 - 👀 I’m interested in ... Pentetration Testing and Bug Hunting
 - 📍What am I learned ? --> Sec+ ,N+ ,Level one in Solving Problems with c++ . With Hands On Web Fundamentals 
-- 📯 Skills --> Programming : Python ,C++ . Solving Rooms and CTFs on TryHackMe and HackTheBox
+- 📯 Skills --> Programming : Python ,C++ .Solving CTFs
 - 📚 Skills on Proccess --> Programming :JavaScript ,MySQL ,Html . Scripting --> Python , Bash
 - 🌱 I’m currently learning ... Ejpt , Ewpt
 - 💞️ I’m looking to collaborate on ... microsoft
